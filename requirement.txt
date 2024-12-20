@@ -1,0 +1,1 @@
+pip install streamlit fitz paddleocr faiss-cpu sentence-transformers torch pdf2image requests
